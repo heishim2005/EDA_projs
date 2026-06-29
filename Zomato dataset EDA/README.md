@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis on a Zomato Bangalore restaurant dataset using Python.
 
-| Dataset url: https://www.kaggle.com/datasets/ruchikakumbhar/zomato-dataset
+ Dataset url: https://www.kaggle.com/datasets/ruchikakumbhar/zomato-dataset
 
 ## Dataset
 - **Source:** Zomato Bangalore dataset
