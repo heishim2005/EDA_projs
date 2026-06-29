@@ -2,6 +2,8 @@
 
 Exploratory Data Analysis on a retail store chain dataset using Python.
 
+Dataset url : https://www.kaggle.com/datasets/rouzbeh/stores-dataset
+
 ## Dataset
 - **Source:** Stores dataset (Kaggle)
 - **Records:** 118 stores, 7 features
