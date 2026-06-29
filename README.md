@@ -22,3 +22,18 @@ Each project explores a different domain through data cleaning, visualization, a
 - Jupyter Notebook
 
 ## Structure
+EDA_projs/
+
+├── Superstore dataset EDA/
+
+│   ├── Sales_store.ipynb
+
+│   └── README.md
+
+├── Zomato dataset EDA/
+
+│   ├── Zom_eda.ipynb
+
+│   └── README.md
+
+└── README.md
