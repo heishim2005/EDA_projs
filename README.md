@@ -1,15 +1,6 @@
-# EDA Projects
-
-A collection of Exploratory Data Analysis notebooks on real-world datasets using Python.
-
 ## Projects
 
 | Project | Dataset | Records | Notebook |
 |---|---|---|---|
-| Superstore Sales Analysis | Sample Superstore | 9,994 | [View](./Sales_store.ipynb) |
-| Zomato Bangalore Analysis | Zomato Bangalore | 148 | [View](./Zom_eda.ipynb) |
-
-## Tools Used
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+| Superstore Sales Analysis | Retail Store Chain | 118 stores | [View](./Superstore%20dataset%20EDA/Sales_store.ipynb) |
+| Zomato Bangalore Analysis | Zomato Bangalore | 148 restaurants | [View](./Zomato%20dataset%20EDA/Zom_eda.ipynb) |
